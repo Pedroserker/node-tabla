@@ -1,1 +1,1 @@
-#Información
+Aplicación de consola usando node.
